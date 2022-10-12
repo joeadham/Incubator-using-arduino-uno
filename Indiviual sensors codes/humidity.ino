@@ -1,4 +1,4 @@
-#include <dht.h>
+#include <dht.h> // to get this library go to https://www.brainy-bits.com/post/how-to-use-the-dht11-temperature-and-humidity-sensor-with-an-arduino
 
 
 
