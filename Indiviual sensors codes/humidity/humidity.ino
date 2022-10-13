@@ -1,4 +1,9 @@
-#include <dht.h>
+
+#include <dht.h> // to get this library go to https://www.brainy-bits.com/post/how-to-use-the-dht11-temperature-and-humidity-sensor-with-an-arduino
+
+
+
+
 #define dht_apin A0 // Analog Pin sensor is connected to
  
 dht DHT;
@@ -29,3 +34,4 @@ void loop(){
   //Fastest should be once every two seconds.
  
 }// end loop(
+
